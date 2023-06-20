@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a test of acceptDependencies",
   "dependencies": {
-    "semver" : "6"
+    "semver" : "7.5.2"
   },
   "acceptDependencies": {
     "semver": "7"
