@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "has some deps without bins linked, for rebuilding",
   "dependencies": {
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "mkdirp": "^1.0.4"
   }
 }
