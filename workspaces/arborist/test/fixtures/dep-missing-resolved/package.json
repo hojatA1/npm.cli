@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "tap": "12"
-  }
+    "tap": "15.0.0",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
