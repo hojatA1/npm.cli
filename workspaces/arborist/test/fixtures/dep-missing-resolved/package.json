@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "tap": "12"
+    "tap": "16.0.0"
   }
 }
