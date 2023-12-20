@@ -2,6 +2,6 @@
   "name": "fooo",
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "nyc": "11.9.0"
+    "nyc": "13.0.0"
   }
 }
