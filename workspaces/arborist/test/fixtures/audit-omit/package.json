@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "nyc": "^11.9.0"
+    "nyc": "^13.0.0"
   },
   "devDependencies": {
     "tap": "^13.1.11"
