@@ -4,7 +4,7 @@
   "dependencies": {
     "flow-parser": "0.x",
     "flow-remove-types": "^2.112.0",
-    "ink": "^2.6.0",
-    "tap": "14"
+    "ink": "^5.0.0",
+    "tap": "18.0.0"
   }
 }
