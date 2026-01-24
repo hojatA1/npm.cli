@@ -18,7 +18,7 @@
     "chokidar": "^3.0.2",
     "color-support": "^1.1.0",
     "coveralls": "^3.0.6",
-    "diff": "^4.0.1",
+    "diff": "^8.0.3",
     "esm": "^3.2.25",
     "findit": "^2.0.0",
     "flow-remove-types": "^2.107.0",
